@@ -89,3 +89,8 @@ production:
   dapter: postgresql
   encoding: unicode
   pool: 5
+  username: vxzfmuukctvcig
+  password: 7f7155e02ac1b8d875615baccd621b54576bb377a7cac6bb3bdbe34256ae03fa
+  hostname: ec2-54-8vcig
+  post: 5432
+  database: d4gbgkttfjir86
